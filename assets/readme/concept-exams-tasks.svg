@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1220" viewBox="0 0 720 1220" role="img" aria-labelledby="title desc">
+  <title id="title">StudyMate AI exam and task planner concept</title>
+  <desc id="desc">Illustrative mobile planner showing exam countdown cards and a daily task checklist.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef4fb"/><stop offset="1" stop-color="#dce8f5"/></linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183655"/><stop offset="1" stop-color="#234a73"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4385f4"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#17334f" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="720" height="1220" rx="54" fill="url(#bg)"/>
+  <circle cx="610" cy="1080" r="135" fill="#c8dcf2" opacity=".62"/>
+  <circle cx="80" cy="180" r="115" fill="#d5e6f5" opacity=".7"/>
+  <text x="56" y="61" fill="#58708b" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">EXAMS &amp; TASKS  /  CONCEPT VISUAL</text>
+  <g filter="url(#shadow)">
+    <rect x="116" y="88" width="488" height="1056" rx="56" fill="#152941"/>
+    <rect x="132" y="104" width="456" height="1024" rx="42" fill="#f8fafc"/>
+    <path d="M132 146a42 42 0 0 1 42-42h372a42 42 0 0 1 42 42v205H132z" fill="url(#navy)"/>
+    <text x="164" y="161" fill="#d9e7f6" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">STUDYMATE AI</text>
+    <text x="164" y="222" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="700">Stay ahead.</text>
+    <text x="164" y="255" fill="#c8d7e7" font-family="Arial, sans-serif" font-size="17">Your deadlines, minus the drama.</text>
+    <rect x="164" y="281" width="390" height="44" rx="15" fill="#ffffff" opacity=".12"/>
+    <circle cx="185" cy="303" r="7" fill="#74a9ff"/>
+    <text x="204" y="309" fill="#fff" font-family="Arial, sans-serif" font-size="14">A good plan beats a panic spiral.</text>
+    <text x="160" y="397" fill="#243b56" font-family="Arial, sans-serif" font-size="24" font-weight="700">Upcoming exams</text>
+    <text x="160" y="425" fill="#7d8ba0" font-family="Arial, sans-serif" font-size="15">Two dates to keep in view</text>
+    <rect x="160" y="450" width="392" height="126" rx="22" fill="#fff" stroke="#e1e8f0" stroke-width="2"/>
+    <rect x="180" y="473" width="48" height="48" rx="15" fill="#e8f0ff"/>
+    <path d="M192 484h24v24h-24zM198 480v9M210 480v9M192 493h24" fill="none" stroke="#2b69df" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="247" y="493" fill="#273d57" font-family="Arial, sans-serif" font-size="18" font-weight="700">Mathematics</text>
+    <text x="247" y="520" fill="#8290a2" font-family="Arial, sans-serif" font-size="14">Exam countdown</text>
+    <rect x="432" y="478" width="96" height="39" rx="13" fill="#edf3ff"/>
+    <text x="480" y="503" fill="#2867df" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">12 days</text>
+    <rect x="160" y="592" width="392" height="126" rx="22" fill="#fff" stroke="#e1e8f0" stroke-width="2"/>
+    <rect x="180" y="615" width="48" height="48" rx="15" fill="#e8f0ff"/>
+    <path d="M192 626h24v24h-24zM198 622v9M210 622v9M192 635h24" fill="none" stroke="#2b69df" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="247" y="635" fill="#273d57" font-family="Arial, sans-serif" font-size="18" font-weight="700">Physics</text>
+    <text x="247" y="662" fill="#8290a2" font-family="Arial, sans-serif" font-size="14">Exam countdown</text>
+    <rect x="432" y="620" width="96" height="39" rx="13" fill="#edf3ff"/>
+    <text x="480" y="645" fill="#2867df" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">19 days</text>
+    <text x="160" y="777" fill="#243b56" font-family="Arial, sans-serif" font-size="24" font-weight="700">Daily tasks</text>
+    <text x="160" y="806" fill="#7d8ba0" font-family="Arial, sans-serif" font-size="15">Small wins still count.</text>
+    <rect x="160" y="831" width="392" height="77" rx="19" fill="#fff" stroke="#e1e8f0" stroke-width="2"/>
+    <circle cx="193" cy="869" r="13" fill="none" stroke="#7390b4" stroke-width="2.2"/>
+    <text x="221" y="876" fill="#273d57" font-family="Arial, sans-serif" font-size="17" font-weight="700">Review chapter 4</text>
+    <rect x="160" y="921" width="392" height="77" rx="19" fill="#fff" stroke="#e1e8f0" stroke-width="2"/>
+    <circle cx="193" cy="959" r="13" fill="#2b69df"/>
+    <path d="m187 959 4 4 8-9" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="221" y="966" fill="#718198" font-family="Arial, sans-serif" font-size="17" text-decoration="line-through">Practice quiz</text>
+    <rect x="160" y="1020" width="392" height="55" rx="18" fill="url(#blue)"/>
+    <text x="356" y="1055" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Plan the next study session</text>
+    <text x="360" y="1102" fill="#8390a0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" text-anchor="middle">ILLUSTRATIVE FEATURE CONCEPT · NOT AN APP SCREENSHOT</text>
+  </g>
+</svg>

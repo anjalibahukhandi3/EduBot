@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1220" viewBox="0 0 720 1220" role="img" aria-labelledby="title desc">
+  <title id="title">StudyMate AI study plan concept</title>
+  <desc id="desc">Illustrative mobile study planner with a progress ring and three subject tasks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef4fb"/><stop offset="1" stop-color="#dce8f5"/></linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183655"/><stop offset="1" stop-color="#234a73"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4385f4"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#17334f" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="720" height="1220" rx="54" fill="url(#bg)"/>
+  <circle cx="620" cy="112" r="116" fill="#c8dcf2" opacity=".55"/>
+  <circle cx="80" cy="1080" r="140" fill="#d3e4f4" opacity=".7"/>
+  <text x="56" y="61" fill="#58708b" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">STUDY PLANNER  /  CONCEPT VISUAL</text>
+  <g filter="url(#shadow)">
+    <rect x="116" y="88" width="488" height="1056" rx="56" fill="#152941"/>
+    <rect x="132" y="104" width="456" height="1024" rx="42" fill="#f8fafc"/>
+    <path d="M132 146a42 42 0 0 1 42-42h372a42 42 0 0 1 42 42v196H132z" fill="url(#navy)"/>
+    <rect x="160" y="139" width="36" height="36" rx="12" fill="#ffffff" opacity=".15"/>
+    <path d="M169 147h18v20l-9-5-9 5z" fill="none" stroke="#fff" stroke-width="2.4" stroke-linejoin="round"/>
+    <text x="208" y="164" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="700">StudyMate AI</text>
+    <text x="160" y="228" fill="#dce8f5" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.6">FOCUS TODAY</text>
+    <text x="160" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="31" font-weight="700">A plan that feels doable.</text>
+    <text x="160" y="302" fill="#c8d7e7" font-family="Arial, sans-serif" font-size="17">One session at a time.</text>
+    <text x="160" y="388" fill="#1f3550" font-family="Arial, sans-serif" font-size="24" font-weight="700">Your study plan</text>
+    <text x="160" y="419" fill="#718198" font-family="Arial, sans-serif" font-size="16">Today · 3 focused sessions</text>
+    <rect x="160" y="447" width="392" height="148" rx="24" fill="#fff" stroke="#e1e8f0" stroke-width="2"/>
+    <circle cx="223" cy="521" r="36" fill="none" stroke="#e5edf8" stroke-width="9"/>
+    <path d="M223 485a36 36 0 1 1-30 56" fill="none" stroke="#2e6de8" stroke-width="9" stroke-linecap="round"/>
+    <text x="223" y="527" fill="#203d62" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">65%</text>
+    <text x="278" y="505" fill="#243b56" font-family="Arial, sans-serif" font-size="19" font-weight="700">Steady progress</text>
+    <text x="278" y="534" fill="#75849a" font-family="Arial, sans-serif" font-size="15">A little done is still done.</text>
+    <rect x="278" y="552" width="220" height="8" rx="4" fill="#e7edf5"/>
+    <rect x="278" y="552" width="143" height="8" rx="4" fill="url(#blue)"/>
+    <text x="160" y="644" fill="#243b56" font-family="Arial, sans-serif" font-size="20" font-weight="700">Next up</text>
+    <g font-family="Arial, sans-serif">
+      <rect x="160" y="668" width="392" height="88" rx="19" fill="#fff" stroke="#e2e9f1" stroke-width="2"/>
+      <circle cx="193" cy="712" r="14" fill="#e7efff"/><text x="193" y="718" fill="#2867df" font-size="16" font-weight="700" text-anchor="middle">1</text>
+      <text x="221" y="706" fill="#263c56" font-size="17" font-weight="700">Calculus</text><text x="221" y="731" fill="#8290a2" font-size="14">35 min · Problem set</text>
+      <rect x="160" y="772" width="392" height="88" rx="19" fill="#fff" stroke="#e2e9f1" stroke-width="2"/>
+      <circle cx="193" cy="816" r="14" fill="#e7efff"/><text x="193" y="822" fill="#2867df" font-size="16" font-weight="700" text-anchor="middle">2</text>
+      <text x="221" y="810" fill="#263c56" font-size="17" font-weight="700">Physics revision</text><text x="221" y="835" fill="#8290a2" font-size="14">25 min · Review notes</text>
+      <rect x="160" y="876" width="392" height="88" rx="19" fill="#fff" stroke="#e2e9f1" stroke-width="2"/>
+      <circle cx="193" cy="920" r="14" fill="#e7efff"/><text x="193" y="926" fill="#2867df" font-size="16" font-weight="700" text-anchor="middle">3</text>
+      <text x="221" y="914" fill="#263c56" font-size="17" font-weight="700">Biology quiz</text><text x="221" y="939" fill="#8290a2" font-size="14">15 min · Quick recap</text>
+    </g>
+    <rect x="160" y="988" width="392" height="62" rx="20" fill="url(#blue)"/>
+    <text x="356" y="1027" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Start focus session</text>
+    <text x="360" y="1090" fill="#8390a0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" text-anchor="middle">ILLUSTRATIVE FEATURE CONCEPT · NOT AN APP SCREENSHOT</text>
+  </g>
+</svg>

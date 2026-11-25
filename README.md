@@ -18,6 +18,21 @@ StudyMate AI is a Flutter app for keeping study plans, deadlines, daily tasks, a
   </tr>
 </table>
 
+## Feature concept visuals
+
+These original vector mockups visualize the study-planning and exam/task flows described below. They are illustrative concepts, not screenshots of shipped app screens.
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/readme/concept-study-plan.svg" alt="Illustrative StudyMate AI study plan with subject tasks and progress" width="340"></td>
+    <td align="center" width="50%"><img src="assets/readme/concept-exams-tasks.svg" alt="Illustrative StudyMate AI exam countdown and daily task list" width="340"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Study planning</strong><br>Study sessions and progress at a glance.</td>
+    <td align="center"><strong>Exams and tasks</strong><br>Countdowns and small daily wins in one place.</td>
+  </tr>
+</table>
+
 ## Built with
 
 <p align="center">
@@ -50,4 +65,4 @@ StudyMate AI is a Flutter app for keeping study plans, deadlines, daily tasks, a
 3. Add the Firebase configuration files for your own Firebase project and configure the Gemini API key as expected by the app.
 4. Run `flutter run`.
 
-The screenshots above are genuine app captures, lightly trimmed around the device status bar for a cleaner README gallery.
+The images in **Screenshots** are genuine app captures, lightly trimmed around the device status bar. The feature visuals above are illustrative concepts.
