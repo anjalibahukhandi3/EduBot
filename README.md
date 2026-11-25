@@ -6,16 +6,26 @@ StudyMate AI is a Flutter app for keeping study plans, deadlines, daily tasks, a
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/readme/dashboard.jpg" alt="StudyMate AI dashboard" width="220"></td>
-    <td align="center" width="33%"><img src="assets/readme/splash.jpg" alt="StudyMate AI splash screen" width="220"></td>
-    <td align="center" width="33%"><img src="assets/readme/pomodoro.jpg" alt="StudyMate AI Pomodoro timer" width="220"></td>
+    <td align="center" width="50%"><img src="assets/readme/dashboard.jpg" alt="StudyMate AI dashboard showing study overview" width="300"></td>
+    <td align="center" width="50%"><img src="assets/readme/pomodoro.jpg" alt="StudyMate AI Pomodoro focus timer" width="300"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Daily overview</strong><br>Exams, tasks, sessions, and modules at a glance.</td>
-    <td align="center"><strong>StudyMate AI</strong><br>The app launch screen.</td>
-    <td align="center"><strong>Focus timer</strong><br>A simple Pomodoro session with a reset when focus takes a coffee break.</td>
+    <td align="center"><strong>Daily overview</strong><br>Exams, tasks, focus sessions, and modules in one view.</td>
+    <td align="center"><strong>Pomodoro focus</strong><br>A 25-minute sprint, with a reset button for when life happens.</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/readme/splash.jpg" alt="StudyMate AI app launch screen" width="260"><br><strong>StudyMate AI launch screen</strong></td>
   </tr>
 </table>
+
+## Built with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+</p>
 
 ## What it can do
 
@@ -40,4 +50,4 @@ StudyMate AI is a Flutter app for keeping study plans, deadlines, daily tasks, a
 3. Add the Firebase configuration files for your own Firebase project and configure the Gemini API key as expected by the app.
 4. Run `flutter run`.
 
-The screenshots above are captured from the app and lightly cropped to keep the interface in focus.
+The screenshots above are genuine app captures, lightly trimmed around the device status bar for a cleaner README gallery.
